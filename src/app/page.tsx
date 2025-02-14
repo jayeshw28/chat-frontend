@@ -1,5 +1,9 @@
+
 export default function Home() {
   return (
-    <div>    </div>
+    
+    <div>
+      This app making is in process;)
+    </div>
   );
 }
